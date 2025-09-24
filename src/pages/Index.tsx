@@ -128,14 +128,14 @@ const Index = () => {
                   <div className="space-y-3">
                     <Button 
                       onClick={() => setShowTaskForm(true)}
-                      className="w-full bg-gradient-to-r from-neon-cyan/20 to-neon-purple/20 border border-neon-cyan/30 text-neon-cyan hover-glow transition-smooth"
+                      className="w-full bg-gradient-to-r from-neon-cyan/20 to-neon-purple/20 border border-neon-cyan/30 text-white hover-glow transition-smooth"
                     >
                       <Plus className="w-4 h-4 mr-2" />
                       Create New Task
                     </Button>
                     <Button 
                       onClick={() => setShowAIPlanning(true)}
-                      className="w-full bg-gradient-to-r from-neon-purple/20 to-neon-cyan/20 border border-neon-purple/30 text-neon-purple hover-glow transition-smooth"
+                      className="w-full bg-gradient-to-r from-neon-purple/20 to-neon-cyan/20 border border-neon-purple/30 text-white hover-glow transition-smooth"
                     >
                       <Brain className="w-4 h-4 mr-2" />
                       AI Planning
