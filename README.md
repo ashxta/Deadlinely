@@ -50,7 +50,6 @@ It’s recommended to use **nvm** (Node Version Manager) to manage Node.js versi
 1. **Clone the repository**
    ```sh
    git clone https://github.com/ashxta/deadline-genius.git
-````
 
 2. **Navigate to the project directory**
 
@@ -68,15 +67,13 @@ It’s recommended to use **nvm** (Node Version Manager) to manage Node.js versi
 
    ```sh
    npm run dev
-   ```
 
 The app will be available at 👉 `http://localhost:8080` (or the next available port).
 
----
+
 
 ## 📂 Project Structure
 
-```
 /
 ├── public/              # Static assets (icons, images)
 ├── src/
@@ -97,11 +94,4 @@ The app will be available at 👉 `http://localhost:8080` (or the next available
 Contributions are always welcome!
 If you’d like to improve **Deadlinely**, feel free to:
 
-* Open an **issue** 📝
-* Submit a **pull request** 🚀
 
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-See the [LICENSE](LICENSE) file for details.
