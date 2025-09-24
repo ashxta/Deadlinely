@@ -1,6 +1,4 @@
-Here’s a clean and fully formatted version of your `README.md` with consistent styling, sectioning, and Markdown best practices applied:
 
-````markdown
 # Deadlinely - AI-Powered Productivity & Task Management
 
 Boost your productivity with **Deadlinely**, an AI-powered task management app that intelligently organizes your to-do list based on priorities, deadlines, and estimated completion times.  
