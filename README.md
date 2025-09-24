@@ -91,7 +91,6 @@ The app will be available at 👉 `http://localhost:8080` (or the next available
 └── vite.config.ts       # Vite configuration
 ```
 
----
 
 ## 🤝 Contributing
 
@@ -101,16 +100,8 @@ If you’d like to improve **Deadlinely**, feel free to:
 * Open an **issue** 📝
 * Submit a **pull request** 🚀
 
----
 
 ## 📜 License
 
 This project is licensed under the **MIT License**.
 See the [LICENSE](LICENSE) file for details.
-
-```
-
----
-
-👉 Do you also want me to **add demo screenshots / GIF placeholders** in the README (since you mentioned futuristic UI with neon glows and animations)? That would make it more engaging for GitHub.
-```
