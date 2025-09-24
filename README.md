@@ -91,16 +91,6 @@ The app will be available at 👉 `http://localhost:8080` (or the next available
 └── vite.config.ts       # Vite configuration
 ```
 
----
 
-## 🤝 Contributing
-
-Contributions are always welcome!
-If you’d like to improve **Deadlinely**, feel free to:
-
-* Open an **issue** 📝
-* Submit a **pull request** 🚀
-
----
 
 
